@@ -1,0 +1,9 @@
+{
+  "name": "MyVoice - Citizen Issue Resolution System",
+  "description": "A centralized civic platform for reporting local issues like potholes and garbage using AI categorization, real-time tracking, and automated routing to government departments.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
